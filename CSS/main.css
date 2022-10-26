@@ -1,0 +1,94 @@
+/************ GENERAL ****************/
+body {
+	font-family: sans-serif;
+	margin: 0;
+}
+
+a {
+	text-decoration: none;
+}
+
+/************ HEADER ****************/	
+#header h1 {
+	background-color: #b30000;
+	text-align: center;
+	font-family: monospace;
+	font-size: 40px;
+	color: #262626;
+	padding: 15px 15px 0px 15px;
+	margin: 0;
+}
+
+#header h2 {
+	background-color: #b30000;
+	text-align: center;
+	font-family: monospace;
+	color: #262626;
+	padding: 2px 10px 8px 10px;
+	margin: 0;
+}
+
+#nav {
+	background-color:#b30000;
+	text-align: center;
+	list-style-type: none;
+	margin: 0;
+	
+}
+
+
+#nav li {
+	display: inline-block;
+	padding: 8px 2px 8px 2px;
+
+}
+
+#header li a {
+	color: #262626;
+
+}
+
+#nav li:hover {
+	background-color: #f2f2f2;
+
+}
+
+/************ CONTENT ****************/
+#content {
+	width: 1000px;
+	margin: 30px auto;
+
+}
+
+#content h3 {
+	border-bottom:#b30000 3px solid;
+}
+
+/************ IMMAGINI ****************/
+.nintendo {
+	width: 500px;
+	height: 300px;
+}
+
+.zelda {
+	width: 400px;
+	height: 400px;
+}
+
+.gow {
+	width: 600px;
+	height: 300px;
+}
+
+.horizon {
+	width: 600px;
+	height: 300px;
+}
+
+
+
+
+
+
+
+
